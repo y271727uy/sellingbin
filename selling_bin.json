@@ -1,0 +1,2366 @@
+{
+    "settings": {
+        "WOOD": {
+            "updateDelayTicks": 2000,
+            "inventoryRows": 1
+        },
+        "REDSTONE": {
+            "updateDelayTicks": 1000,
+            "inventoryRows": 2
+        },
+        "IRON": {
+            "updateDelayTicks": 500,
+            "inventoryRows": 2
+        },
+        "DIAMOND": {
+            "updateDelayTicks": 200,
+            "inventoryRows": 3
+        },
+        "NETHERITE": {
+            "updateDelayTicks": 200,
+            "inventoryRows": 6
+        }
+    },
+    "trades": [
+        {
+            "input": {
+                "filter": "minecraft:apple",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "sniffer:s_12",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "trailandtales_delight:pitcher_taro",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "betternether:nether_reed_stem",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:tea_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "sunflowerdelight:sunflower_seed",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "immortalers_delight:contains_tea_leisamboo",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "betterend:lumecorn_rod",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "youkaishomecoming:redbean",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "jellyfishing:seanut",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "vintagedelight:peanut",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "culturaldelights:white_eggplant",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "culturaldelights:avocado",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "argentinas_delight:espinacaitem",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "argentinas_delight:espinacaitem",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "radiation_zone:irradiated_eggplant",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "enlightened_end:frost_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "enlightened_end:elevibloom",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersrespite:rose_hips",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "pasterdream:dyedream_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "pasterdream:fig",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "aquamirae_delight:oxygeliumbulbs",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:cherry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "argentinas_delight:tomatitos_cherry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "ecologics:walnut",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "enlightened_end:glow_gourd_slice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "vintagedelight:ghost_pepper",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "vintagedelight:oat",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "muffins_thaidelight:lime",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "youkaishomecoming:soybean",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "collectorsreap:lunar_pearl",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:gold_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "betternether:black_apple",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 15
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersdelight:rice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:pear",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:lychee",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:fig",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:bayberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:cranberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:persimmon",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:peach",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:hawberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:peach",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:orange",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:orange",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:kiwi",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:kiwifruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:pear",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:mango",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:olive_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:cherries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:mangosteen",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "beachparty:coconut_open",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "caupona:wolfberries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "caupona:fig",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "caupona:walnut",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:pineapple",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:musang_king_durian",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:dragon_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:durian",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:chorus_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "neapolitan:banana",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:avocado",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:starfruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:alfalfa",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "nethers_exoticism:pitaya",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "nethers_exoticism:kiwano",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "nethers_exoticism:jaboticaba",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "nethers_exoticism:ramboutan",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "nethers_exoticism:bouddha_s_hand",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "endergetic:bolloom_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:maize",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "atmospheric:aloe_leaves",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "neapolitan:mint_leaves",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersrespite:coffee_beans",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "betterend:shadow_berry_raw",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "betterend:blossom_berry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "vintagedelight:gearo_berry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "habitat:kabloom_pulp",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "habitat:kabloom_pulp",
+                "count": 1
+            },
+            "output": {
+                "item": "ecologics:prickly_pear",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "delightful:cactus_flesh",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "vanillacookbook:cactus_slice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "twilightforest:torchberries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "enlightened_end:azure_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "deeperdarker:bloom_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "exquisito:elmond",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:plum",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:hoary_apple",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:lemon",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:orange",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:elderberries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:passion_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "miners_delight:moss",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "miners_delight:cave_carrot",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "rusticdelight:bell_pepper_red",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "rusticdelight:bell_pepper_yellow",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "rusticdelight:bell_pepper_green",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "atmospheric:blood_orange",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "atmospheric:currant",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "atmospheric:passion_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "autumnity:foul_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "upgrade_aquatic:mulberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:acai_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:green_coconut",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "muffins_thaidelight:raw_papaya",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "muffins_thaidelight:papaya",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:cassava_root",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "atmospheric:yucca_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "quark:ancient_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:wheat",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:potato",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:carrot",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:beetroot",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:melon_slice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:hamimelon_slice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersdelight:cabbage",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersdelight:tomato",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "farm_and_charm:oat",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "farm_and_charm:lettuce",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "farm_and_charm:barley",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "farm_and_charm:strawberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "farm_and_charm:corn",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersdelight:onion",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "culturaldelights:eggplant",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "vintagedelight:cucumber",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "brewery:hops",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "rusticdelight:cotton_boll",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "delightful:cantaloupe",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "crockpot:asparagus",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "dumplings_delight:fennel",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "dumplings_delight:garlic_chive",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "dumplings_delight:chinese_cabbage",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "rusticdelight:bell_pepper",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:hamimelon",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "herbalbrews:coffee_beans",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:black_beans",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:carioca_beans",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "oceanic_delight:sea_grape",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:sweet_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:blueberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitsdelight:blueberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "delightful:salmonberries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "manors_bounty:cranberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "nethervinery:warped_grape",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 15
+            }
+        },
+        {
+            "input": {
+                "filter": "nethervinery:crimson_grape",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 15
+            }
+        },
+        {
+            "input": {
+                "filter": "muffins_thaidelight:pepper",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "ubesdelight:lemongrass",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "ubesdelight:ube",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "ubesdelight:ginger",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:leek",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:garlic_bulb",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:glow_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "collectorsreap:lime",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:collard_greens",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 7
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:spongekin_slice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "bountifulfares:lapisberries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "ramadandelight:parsley",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:torchflower",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:guarana_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "biomemakeover:bulbus_root",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "trailandtales_delight:lantern_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "argentinas_delight:batata",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "netherexp:soul_torchflower",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "galosphere:lichen_cordyceps",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "festive_delight:cinnamon_sticks",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "neapolitan:vanilla_pods",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "gelato_galore:vanilla_pods",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:grape",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:white_grape",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:jungle_grapes_red",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:jungle_grapes_white",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:savanna_grapes_red",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:savanna_grapes_white",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:taiga_grapes_red",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "vinery:taiga_grapes_white",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "betterend:cave_pumpkin",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "betternether:whispering_gourd",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "collectorsreap:pomegranate",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "undergardendelight:gloomgourd_slice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 3
+            }
+        },
+        {
+            "input": {
+                "filter": "makit_better:soul_berries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "netherexp:cerebrage",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "mynethersdelight:bullet_pepper",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "endersdelight:voidpepper",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "undergarden:ditchbulb",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "undergarden:blisterberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "undergarden:underbeans",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "collectorsreap:stygian_pomegranate",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "undergarden:droopvine_item",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:pitcher_pod",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "terramity:bomb_flower_item",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "immortalers_delight:evolutcorn",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "immortalers_delight:kwat_wheat",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "immortalers_delight:himekaido",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "immortalers_delight:pearlip",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 2
+            }
+        },
+        {
+            "input": {
+                "filter": "regions_unexplored:duskmelon_slice",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "midashunger:golden_beetroot",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "untamedwilds:flora_titan_arum_corm",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:silver_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "youkaishomecoming:udumbara_flower",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:gold_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "nethersdelight:warped_fungus_colony",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "enigmaticlegacy:astral_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:gold_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "enigmaticdelicacy:enigmatic_fruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:gold_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "kitchenkarrot:gem_carrot",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:cupronickel_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "minecraft:pumpkin",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 5
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersdelight:red_mushroom_colony",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "nethersdelight:warped_fungus_colony",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "collectorsreap:portobello_colony",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        },
+        {
+            "input": {
+                "filter": "delightful:mini_melon",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 6
+            }
+        },
+        {
+            "input": {
+                "filter": "ae2:tiny_tnt",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:glod_gt_credit",
+                "count": 1
+            }
+        },
+        {
+            "input": {
+                "filter": "",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "neapolitan:strawberries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "neapolitan:white_strawberries",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "frycooks_delight:canola",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "argentinas_delight:yerbamate",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "braziliandelight:yerba_mate_leaves",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "cosmopolitan:wheatgrass",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "cosmopolitan:wheatgrass",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "veggiesdelight:sweet_potato_crop",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "seeddelight:sunflower_seed",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "foragersinsight:sunflower_kernels",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "miners_delight:gossypium",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "fruitfulfun:grapefruit",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "spanishdelight:green_bean",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "youkaishomecoming:coffea",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "seeddelight:rosehip",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "frightsdelight:wither_berry_bush",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "cosmopolitan:wildberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersrespite:yellow_tea_leaves",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "cosmopolitan:wildberry",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "youkaishomecoming:white_tea_leaves",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "collectorsreap:portobello",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+         {
+            "input": {
+                "filter": "farmersdelight:rice_panicle",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+         {
+            "input": {
+                "filter": "neapolitan:adzuki_beans",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+         {
+            "input": {
+                "filter": "vital_herbs:fizz_fruit",
+                "count": 1
+            },
+            "output": {     
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+         {
+            "input": {
+                "filter": "",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 4
+            }
+        },
+        {
+            "input": {
+                "filter": "farmersdelight:brown_mushroom_colony",
+                "count": 1
+            },
+            "output": {
+                "item": "kubejs:copper_gt_credit",
+                "count": 8
+            }
+        }
+    ]
+}
